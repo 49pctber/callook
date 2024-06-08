@@ -7,7 +7,7 @@ Disclaimer: I am in no way related to this project. See their [API reference](ht
 ## Installation
 
 ```
-go install github.com/ae6nr/callook/cmd/...@latest
+go install github.com/49pctber/callook/cmd/...@latest
 ```
 
 ## Usage
